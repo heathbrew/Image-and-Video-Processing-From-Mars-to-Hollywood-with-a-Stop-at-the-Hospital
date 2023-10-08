@@ -5,22 +5,16 @@ This repository contains the collection of Kaggle notebooks I Studied as a part 
 
 ## Modules
 ### Module 1: Introduction to Image and Video Processing
-- Learn the basics of image and video processing.
-- Understand fundamental concepts of human perception relevant to image processing.
-- Explore simple tools in signal processing essential for further units.
-- [Project 1: Project Title](insert_project_link_here)
+- [Project 1: Computer Vision For Everyone With Python](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%201%20Image%20and%20Video%20processing%20Basics.ipynb)
 
 ### Module 2: Image and Video Compression
-- Gain insights into the JPEG and MPEG compression algorithms.
-- Understand the importance and applications of compression techniques.
-- Explore the use of compression in the context of the Mars expedition.
-- [Project 1: Project Title](insert_project_link_here)
+- [Project 2: image-compression-using-clustering](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%202%20image-compression-using-clustering.ipynb)
 
 ### Module 3: Spatial Processing
 - Learn about image enhancement, histogram modification, and equalization.
 - Understand local neighborhood operations, including median filtering.
 - Explore derivatives, Laplacian, unsharp masking, and gradient operations in image processing.
-- [Project 1: Project Title](insert_project_link_here)
+- [Project 3: image-enhancement](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%203%20image-enhancement.ipynb)
 
 ### Module 4: Image Restoration
 - Complement knowledge from Module 3 by learning about image restoration.
