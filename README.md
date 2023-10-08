@@ -11,34 +11,23 @@ This repository contains the collection of Kaggle notebooks I Studied as a part 
 - [Project 2: image-compression-using-clustering](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%202%20image-compression-using-clustering.ipynb)
 
 ### Module 3: Spatial Processing
-- Learn about image enhancement, histogram modification, and equalization.
-- Understand local neighborhood operations, including median filtering.
-- Explore derivatives, Laplacian, unsharp masking, and gradient operations in image processing.
 - [Project 3: image-enhancement](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%203%20image-enhancement.ipynb)
 
 ### Module 4: Image Restoration
-- Complement knowledge from Module 3 by learning about image restoration.
-- Understand different types of noise and how to estimate them.
-- Explore degradation functions and techniques like Wiener filtering.
-- [Project 1: Project Title](insert_project_link_here)
+- [Project 4: Image restoration, Noise, Segmentation and Contours](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%204%20Image_restoration_Noise_Segmentation_and_Contours.ipynb)
+- [Project 5: speckle-noise-reduction-using-conv-autoencoders](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%204%20speckle-noise-reduction-using-conv-autoencoders.ipynb)
 
 ### Module 5: Image Segmentation
-- Learn techniques to partition images, including thresholding, graph cuts, and active contours.
-- Gain insights into image analysis and interpretation.
-- Understand the importance of image segmentation in various applications.
-- [Project 1: Project Title](insert_project_link_here)
+- [Project 6: unet-image-segmentation](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%205%20unet-image-segmentation.ipynb)
 
 ### Module 6: Geometric PDEs (Partial Differential Equations)
-- Optional material focused on mathematical aspects of image and video processing.
-- Learn advanced mathematical tools and their applications.
-- Connect advanced tools with classical ones for a unified understanding.
-- [Project 1: Project Title](insert_project_link_here)
+- [Project 7: mathematical aspects of image and video processing](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/43f7d99ce6865418b75549ab719eebfc7cafed20/Module%206%20computer-vision-1-digital-images-processing.ipynb)
 
 ### Module 7: Image and Video Inpainting
 - Explore the topic of image and video inpainting.
 - Understand various approaches to inpainting, including PDE-based methods.
 - Learn about Shanon's work and its relevance to inpainting.
-- [Project 1: Project Title](insert_project_link_here)
+- [Project 8: IMAGE INPAINTING](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%207%20computer-vision-101-with-opencv.ipynb)
 
 ### Module 8: Sparse Modeling and Compressed Sensing
 - Gain knowledge about modern tools in image and video processing.
