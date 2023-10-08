@@ -24,22 +24,14 @@ This repository contains the collection of Kaggle notebooks I Studied as a part 
 - [Project 7: mathematical aspects of image and video processing](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/43f7d99ce6865418b75549ab719eebfc7cafed20/Module%206%20computer-vision-1-digital-images-processing.ipynb)
 
 ### Module 7: Image and Video Inpainting
-- Explore the topic of image and video inpainting.
-- Understand various approaches to inpainting, including PDE-based methods.
-- Learn about Shanon's work and its relevance to inpainting.
 - [Project 8: IMAGE INPAINTING](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%207%20computer-vision-101-with-opencv.ipynb)
 
 ### Module 8: Sparse Modeling and Compressed Sensing
-- Gain knowledge about modern tools in image and video processing.
-- Understand the use of linear algebra and optimization in image processing.
-- Explore sparse modeling, dictionary learning, and compressed sensing techniques.
-- [Project 1: Project Title](insert_project_link_here)
+- [Project 9: Compressing images using Linear Algebra](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%208%20compressing-images-using-linear-algebra.ipynb)
 
 ### Module 9: Medical Imaging (Bonus Unit)
-- Explore the use of image processing in medical imaging.
-- Learn about applications in HIV research and brain imaging.
-- Understand the importance of image processing in solving societal problems.
-- [Project 1: Project Title](insert_project_link_here)
+- [Project 10: First Step in Medical Image Classification using Mobile Net](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%209%20medical-image-classification-for-beginner.ipynb)
+- [Project 11: melanoma-hair-remove](https://github.com/heathbrew/Image-and-Video-Processing-From-Mars-to-Hollywood-with-a-Stop-at-the-Hospital/blob/main/Module%209%20melanoma-hair-remove.ipynb)
 
 
 Feel free to explore the course content and projects to gain insights into the exciting world of image and video processing.
