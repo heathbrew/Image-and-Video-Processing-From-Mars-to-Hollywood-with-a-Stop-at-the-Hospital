@@ -1,4 +1,4 @@
-# Image and Video Processing Course
+# Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital
 
 ## Description
 This repository contains the collection of Kaggle notebooks I Studied as a part of understanding the Practical Aspect of "Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital" course at Duke University on Coursera.
